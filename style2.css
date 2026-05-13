@@ -1,0 +1,68 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    color: white;
+}
+li,ul{
+    display: inline;
+}
+ul{
+    margin-left: 550px;
+}
+h1{
+    text-align: center;
+    cursor:default;
+}
+li{
+    color: gray;
+    cursor: default;
+}
+li:hover{
+    color: white;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 190px;
+    color: black;
+    cursor: default;
+}
+.empty{
+    padding: 50px;
+}
+.products{
+    text-align: center;
+    margin-top: -75px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 4px;
+    border-radius: 0.5cm;
+    margin-bottom: 0.5cm;
+
+}
+.one{
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: yellow;
+    color: black;
+}
+.contact{
+text-align: center;
+background-color: black;
+color: white;
+padding-bottom: 10px;
+}
+h2{
+     margin-bottom: -3px;
+}
+
+
